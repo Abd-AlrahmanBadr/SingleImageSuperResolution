@@ -1,0 +1,61 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Overview}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Motivation}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Problem Definition}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Literature Review and Related Work}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Introduction}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Literature Review}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Related Work}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Image Super-Resolution}{subsection.2.3}% 9
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Convolutional Neural Networks}{subsection.2.3}% 10
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Loss Function}{subsection.2.3}% 11
+\BOOKMARK [2][-]{subsection.2.4}{Conclusion}{section.2}% 12
+\BOOKMARK [1][-]{section.3}{SISR Using Residual Block in GAN Model}{}% 13
+\BOOKMARK [2][-]{subsection.3.1}{Introduction}{section.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Background}{subsection.3.1}% 15
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Scope}{subsection.3.1}% 16
+\BOOKMARK [2][-]{subsection.3.2}{Proposed System}{section.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Discriminator Model}{subsection.3.2}% 18
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Generator Model}{subsection.3.2}% 19
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Full GAN Model}{subsection.3.2}% 20
+\BOOKMARK [3][-]{subsubsection.3.2.4}{GAN Model Training}{subsection.3.2}% 21
+\BOOKMARK [1][-]{section.4}{Software Requirements Specifications}{}% 22
+\BOOKMARK [2][-]{subsection.4.1}{Introduction}{section.4}% 23
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Purpose}{subsection.4.1}% 24
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Scope}{subsection.4.1}% 25
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Overview}{subsection.4.1}% 26
+\BOOKMARK [2][-]{subsection.4.2}{General Description}{section.4}% 27
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Product Functions}{subsection.4.2}% 28
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Similar System Information}{subsection.4.2}% 29
+\BOOKMARK [3][-]{subsubsection.4.2.3}{User Characteristics}{subsection.4.2}% 30
+\BOOKMARK [3][-]{subsubsection.4.2.4}{User Objectives}{subsection.4.2}% 31
+\BOOKMARK [3][-]{subsubsection.4.2.5}{General Constraints}{subsection.4.2}% 32
+\BOOKMARK [2][-]{subsection.4.3}{Functional Requirements}{section.4}% 33
+\BOOKMARK [2][-]{subsection.4.4}{Interface Requirements}{section.4}% 34
+\BOOKMARK [3][-]{subsubsection.4.4.1}{User interface}{subsection.4.4}% 35
+\BOOKMARK [2][-]{subsection.4.5}{Performance Requirements}{section.4}% 36
+\BOOKMARK [3][-]{subsubsection.4.5.1}{Response Time}{subsection.4.5}% 37
+\BOOKMARK [3][-]{subsubsection.4.5.2}{Resources}{subsection.4.5}% 38
+\BOOKMARK [2][-]{subsection.4.6}{Design Constraints}{section.4}% 39
+\BOOKMARK [3][-]{subsubsection.4.6.1}{Software}{subsection.4.6}% 40
+\BOOKMARK [3][-]{subsubsection.4.6.2}{Hardware}{subsection.4.6}% 41
+\BOOKMARK [2][-]{subsection.4.7}{Other Non-Functional Requirements}{section.4}% 42
+\BOOKMARK [3][-]{subsubsection.4.7.1}{Usability}{subsection.4.7}% 43
+\BOOKMARK [3][-]{subsubsection.4.7.2}{Reliability}{subsection.4.7}% 44
+\BOOKMARK [3][-]{subsubsection.4.7.3}{Maintainability}{subsection.4.7}% 45
+\BOOKMARK [3][-]{subsubsection.4.7.4}{Portability}{subsection.4.7}% 46
+\BOOKMARK [3][-]{subsubsection.4.7.5}{Security}{subsection.4.7}% 47
+\BOOKMARK [3][-]{subsubsection.4.7.6}{Availability}{subsection.4.7}% 48
+\BOOKMARK [2][-]{subsection.4.8}{Object Oriented Domain Analysis}{section.4}% 49
+\BOOKMARK [2][-]{subsection.4.9}{Operational Scenarios}{section.4}% 50
+\BOOKMARK [3][-]{subsubsection.4.9.1}{Use Case Diagram}{subsection.4.9}% 51
+\BOOKMARK [3][-]{subsubsection.4.9.2}{Sequence Diagram}{subsection.4.9}% 52
+\BOOKMARK [3][-]{subsubsection.4.9.3}{Activity Diagram}{subsection.4.9}% 53
+\BOOKMARK [1][-]{section.5}{Evaluation of the Proposed System}{}% 54
+\BOOKMARK [2][-]{subsection.5.1}{Introduction}{section.5}% 55
+\BOOKMARK [2][-]{subsection.5.2}{Results}{section.5}% 56
+\BOOKMARK [2][-]{subsection.5.3}{Evaluation}{section.5}% 57
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Mean Squared Error \(MSE\)}{subsection.5.3}% 58
+\BOOKMARK [3][-]{subsubsection.5.3.2}{Peak Signal-to-Noise Ratio \(PSNR\)}{subsection.5.3}% 59
+\BOOKMARK [3][-]{subsubsection.5.3.3}{Structural Similarity \(SSIM\)}{subsection.5.3}% 60
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 61

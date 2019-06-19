@@ -1,0 +1,61 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Overview}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Motivation}{5}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Problem Definition}{5}{subsection.1.3}
+\contentsline {section}{\numberline {2}Literature Review and Related Work}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Introduction}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Literature Review}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Related Work}{9}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Image Super-Resolution}{9}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Convolutional Neural Networks}{9}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Loss Function}{10}{subsubsection.2.3.3}
+\contentsline {subsection}{\numberline {2.4}Conclusion}{11}{subsection.2.4}
+\contentsline {section}{\numberline {3}SISR Using Residual Block in GAN Model}{12}{section.3}
+\contentsline {subsection}{\numberline {3.1}Introduction}{12}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Background}{12}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Scope}{12}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Proposed System}{13}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Discriminator Model}{14}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Generator Model}{14}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Full GAN Model}{16}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}GAN Model Training}{16}{subsubsection.3.2.4}
+\contentsline {section}{\numberline {4}Software Requirements Specifications}{18}{section.4}
+\contentsline {subsection}{\numberline {4.1}Introduction}{18}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Purpose}{18}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Scope}{18}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Overview}{18}{subsubsection.4.1.3}
+\contentsline {subsection}{\numberline {4.2}General Description}{19}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Product Functions}{19}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Similar System Information}{20}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}User Characteristics}{20}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}User Objectives}{21}{subsubsection.4.2.4}
+\contentsline {subsubsection}{\numberline {4.2.5}General Constraints}{21}{subsubsection.4.2.5}
+\contentsline {subsection}{\numberline {4.3}Functional Requirements}{22}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Interface Requirements}{23}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}User interface}{23}{subsubsection.4.4.1}
+\contentsline {subsection}{\numberline {4.5}Performance Requirements}{24}{subsection.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}Response Time}{24}{subsubsection.4.5.1}
+\contentsline {subsubsection}{\numberline {4.5.2}Resources}{24}{subsubsection.4.5.2}
+\contentsline {subsection}{\numberline {4.6}Design Constraints}{25}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}Software}{25}{subsubsection.4.6.1}
+\contentsline {subsubsection}{\numberline {4.6.2}Hardware}{26}{subsubsection.4.6.2}
+\contentsline {subsection}{\numberline {4.7}Other Non-Functional Requirements}{26}{subsection.4.7}
+\contentsline {subsubsection}{\numberline {4.7.1}Usability}{26}{subsubsection.4.7.1}
+\contentsline {subsubsection}{\numberline {4.7.2}Reliability}{27}{subsubsection.4.7.2}
+\contentsline {subsubsection}{\numberline {4.7.3}Maintainability}{27}{subsubsection.4.7.3}
+\contentsline {subsubsection}{\numberline {4.7.4}Portability}{28}{subsubsection.4.7.4}
+\contentsline {subsubsection}{\numberline {4.7.5}Security}{28}{subsubsection.4.7.5}
+\contentsline {subsubsection}{\numberline {4.7.6}Availability}{28}{subsubsection.4.7.6}
+\contentsline {subsection}{\numberline {4.8}Object Oriented Domain Analysis}{29}{subsection.4.8}
+\contentsline {subsection}{\numberline {4.9}Operational Scenarios}{31}{subsection.4.9}
+\contentsline {subsubsection}{\numberline {4.9.1}Use Case Diagram}{31}{subsubsection.4.9.1}
+\contentsline {subsubsection}{\numberline {4.9.2}Sequence Diagram}{32}{subsubsection.4.9.2}
+\contentsline {subsubsection}{\numberline {4.9.3}Activity Diagram}{33}{subsubsection.4.9.3}
+\contentsline {section}{\numberline {5}Evaluation of the Proposed System}{36}{section.5}
+\contentsline {subsection}{\numberline {5.1}Introduction}{36}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Results}{36}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Evaluation}{37}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Mean Squared Error (MSE)}{37}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}Peak Signal-to-Noise Ratio (PSNR)}{38}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}Structural Similarity (SSIM)}{39}{subsubsection.5.3.3}
+\contentsline {section}{\numberline {6}Conclusion}{41}{section.6}
